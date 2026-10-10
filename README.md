@@ -1,8 +1,10 @@
 # Ticket Booking App
 
 **Live site:** http://ticket-booking-app-frontend-527133285656.s3-website-us-east-1.amazonaws.com
-**Repository:** https://github.com/likhithagonugunta-ctrl/ticket-booking-app
+**Repository:** https://github.com/KyathiLahari/ticket-booking-app
+**Project Documentation:** [View PDF Report](./SERVERLESS%20TICKET%20BOOKING%20SYSTEM%20%281%29.pdf)
 
+**Project Presentation:** [View PowerPoint](./Serverless%20Ticket%20Booking%20Presentation%20%282%29.pptx)
 ---
 # Ticket Booking Application (AWS Serverless)
 
